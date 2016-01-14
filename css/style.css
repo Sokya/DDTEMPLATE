@@ -1,1 +1,88 @@
-style.css
+html{
+	font-size:12px;
+	font-family:"Times New Roman", Times, serif;
+	color:black;
+}
+body{
+	background-color:#CCC;
+	margin:20px;
+	padding:0px;
+}
+.wrapper{
+	width:1230px;
+	margin:0 auto;
+}
+.content-all{
+	width:99%;
+	float:left;
+	min-height:50px;
+	background-color:#fff;
+	padding:0% 0% 0% 1%;
+	border-radius:8px 8px 0px 0px;
+	
+}
+.content-header{
+	width:99%px;
+	float:left;
+}
+.logo{
+	width:245px;
+	height:70px;
+	float:left;
+	padding:5px;
+}
+.logo-search{
+	width:426px;
+	height:33px;
+	float:left;
+	padding:0px 0px 0px 15px;
+}
+.search-box{
+	float:left;
+	cursor:pointer;
+	position:absolute;
+	background:#960;
+	margin:40px 0px 10px 300px;
+}
+.search-box input{
+	padding:5px;
+    width:350px;
+    height:30px;
+}
+.phone-number{
+	float:left;
+	margin:10px 0px 0px 20px;
+	font-size:24px;
+}
+.phone-logo{
+	float:left;
+	margin:10px 0px 0px 0px;
+	width:26px;
+	height:26px;
+}
+.phone-letter{
+	float:left;
+	margin:10px 0px 0px 5px;
+	font-size:18px;
+}
+.user-logo{
+	float:left;
+	margin:20px 0px 0px 180px;
+	width:28px;
+	height:24px;
+}
+.user-leter{
+	float:left;
+	font-size:18px;
+}
+.cart-logo{
+	float:left;
+	width:34px;
+	height:26px;
+	margin:20px 0px 0px 50px;
+}
+.money{
+	float:left;
+	font-size:18px;
+	margin:0px 0px 0px 6px;
+}
