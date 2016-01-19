@@ -86,3 +86,72 @@ body{
 	font-size:18px;
 	margin:0px 0px 0px 6px;
 }
+./*start-content-memu*/
+.content-memu{
+	width:1230px;
+	float: left;
+	background-color:#00F;
+}
+.bontton-meny-right{
+	float:left;
+	min-width:50px;
+	background:#339999;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:10px;
+	border-right:1px solid #ffffff;
+	border-radius:0px 0px 0px 14px;
+	text-align: center;
+	color:#ffffff;
+}
+.bontton-menu-middle{
+	float:left;
+	min-width:50px;
+	background:#339999;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:10px;
+	border-right:1px solid #ffffff;
+	text-align: center;
+	color:#ffffff;
+}
+.menu{
+	float: left;
+    min-width: 48px;
+    background: #339999;
+    padding-top: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #ffffff;
+    border-right: 1px solid #F3F3F3;
+    font-size: 14px;
+    min-height: 16px;
+}
+.menu:first-child{
+	border-radius:0px 0px 0px 15px;
+}
+.menu:last-child{
+	border-right:none;
+	border-radius:0px 0px 15px 0px;
+}
+.menu:hover{
+	background-color:#1D8E9B;
+}
+/*End Header**/
+
+/**Start Body**/
+.bb{
+	width:99%px;
+	float:left;
+}
+.Footer{
+	width:1230px;
+	float:left;
+	background-color:#00F;
+	color:#F00;
+	margin-top:10px;
+}
